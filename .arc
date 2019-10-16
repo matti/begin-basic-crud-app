@@ -7,6 +7,7 @@ shiny-bck
 get /todos
 post /todos
 post /todos/delete
+get /lol
 
 @tables
 data
